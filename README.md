@@ -37,7 +37,7 @@ this method have **3** parameters:
 ### Example:
 ``` js
 var lorem = new LoremIpsum('english');
-lorem.generate(); \\returns an english lorem ipsum paragraph
-lorem.generate('words'); \\returns an english lorem ipsum word
-lorem.generate('words', 50, 'persian'); \\returns 50 english lorem ipsum words
+lorem.generate();
+lorem.generate('words');
+lorem.generate('words', 50, 'persian'); // returns 50 english lorem ipsum words
 ```
