@@ -9,11 +9,11 @@ This class is written in ** TypeScript ** and converts with gulp. Because of thi
 
 ## Build & Run:
 to build and run LoremIpsum:
-1.First download or clone repository.
-2.Run ``` npm install ``` command.
-3.Run ``` gulp ``` command.
-4.Include ``` dest\js\LoremIpsum.js ``` in your html file.
-5.Create an instance from ``` LoremIpsum ``` class like below:
+1.First download or clone repository
+2.Run ``` npm install ``` command
+3.Run ``` gulp ``` command
+4.Include ``` dest\js\LoremIpsum.js ``` in your html file
+5.Create an instance from ``` LoremIpsum ``` class like below
 
 ``` js
 var lorem = new LoremIpsum();
